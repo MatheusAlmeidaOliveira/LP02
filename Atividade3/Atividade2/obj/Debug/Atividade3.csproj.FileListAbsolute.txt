@@ -1,0 +1,18 @@
+C:\Users\Jarvis\Desktop\Atividade2\Atividade2\bin\Debug\Atividade2.exe.config
+C:\Users\Jarvis\Desktop\Atividade2\Atividade2\bin\Debug\Atividade2.exe
+C:\Users\Jarvis\Desktop\Atividade2\Atividade2\bin\Debug\Atividade2.pdb
+C:\Users\Jarvis\Desktop\Atividade2\Atividade2\obj\Debug\Atividade3.csprojResolveAssemblyReference.cache
+C:\Users\Jarvis\Desktop\Atividade2\Atividade2\obj\Debug\Atividade2.Triângulo.resources
+C:\Users\Jarvis\Desktop\Atividade2\Atividade2\obj\Debug\Atividade2.Properties.Resources.resources
+C:\Users\Jarvis\Desktop\Atividade2\Atividade2\obj\Debug\Atividade3.csproj.GenerateResource.Cache
+C:\Users\Jarvis\Desktop\Atividade2\Atividade2\obj\Debug\Atividade2.exe
+C:\Users\Jarvis\Desktop\Atividade2\Atividade2\obj\Debug\Atividade2.pdb
+C:\Users\Jarvis\Desktop\ATIVIDADE3 - Cópia\Atividade2\bin\Debug\Atividade2.exe.config
+C:\Users\Jarvis\Desktop\ATIVIDADE3 - Cópia\Atividade2\obj\Debug\Atividade2.exe
+C:\Users\Jarvis\Desktop\ATIVIDADE3 - Cópia\Atividade2\obj\Debug\Atividade2.pdb
+C:\Users\Jarvis\Desktop\ATIVIDADE3 - Cópia\Atividade2\bin\Debug\Atividade2.exe
+C:\Users\Jarvis\Desktop\ATIVIDADE3 - Cópia\Atividade2\bin\Debug\Atividade2.pdb
+C:\Users\Jarvis\Desktop\ATIVIDADE3 - Cópia\Atividade2\obj\Debug\Atividade3.csprojResolveAssemblyReference.cache
+C:\Users\Jarvis\Desktop\ATIVIDADE3 - Cópia\Atividade2\obj\Debug\Atividade2.Triângulo.resources
+C:\Users\Jarvis\Desktop\ATIVIDADE3 - Cópia\Atividade2\obj\Debug\Atividade2.Properties.Resources.resources
+C:\Users\Jarvis\Desktop\ATIVIDADE3 - Cópia\Atividade2\obj\Debug\Atividade3.csproj.GenerateResource.Cache
