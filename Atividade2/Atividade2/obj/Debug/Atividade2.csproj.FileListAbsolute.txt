@@ -1,0 +1,9 @@
+C:\Users\Jarvis\Desktop\LP2\Atividade2\Atividade2\bin\Debug\Atividade2.exe.config
+C:\Users\Jarvis\Desktop\LP2\Atividade2\Atividade2\bin\Debug\Atividade2.exe
+C:\Users\Jarvis\Desktop\LP2\Atividade2\Atividade2\bin\Debug\Atividade2.pdb
+C:\Users\Jarvis\Desktop\LP2\Atividade2\Atividade2\obj\Debug\Atividade2.csprojResolveAssemblyReference.cache
+C:\Users\Jarvis\Desktop\LP2\Atividade2\Atividade2\obj\Debug\Atividade2.Form1.resources
+C:\Users\Jarvis\Desktop\LP2\Atividade2\Atividade2\obj\Debug\Atividade2.Properties.Resources.resources
+C:\Users\Jarvis\Desktop\LP2\Atividade2\Atividade2\obj\Debug\Atividade2.csproj.GenerateResource.Cache
+C:\Users\Jarvis\Desktop\LP2\Atividade2\Atividade2\obj\Debug\Atividade2.exe
+C:\Users\Jarvis\Desktop\LP2\Atividade2\Atividade2\obj\Debug\Atividade2.pdb
