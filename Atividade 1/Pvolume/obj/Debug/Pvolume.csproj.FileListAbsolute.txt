@@ -7,3 +7,6 @@ c:\users\jarvis\documents\visual studio 2015\Projects\Pvolume\Pvolume\bin\Debug\
 c:\users\jarvis\documents\visual studio 2015\Projects\Pvolume\Pvolume\bin\Debug\Pvolume.pdb
 c:\users\jarvis\documents\visual studio 2015\Projects\Pvolume\Pvolume\obj\Debug\Pvolume.exe
 c:\users\jarvis\documents\visual studio 2015\Projects\Pvolume\Pvolume\obj\Debug\Pvolume.pdb
+C:\Users\Jarvis\Desktop\LP2\Atividade 1\Pvolume\bin\Debug\Pvolume.exe.config
+C:\Users\Jarvis\Desktop\LP2\Atividade 1\Pvolume\obj\Debug\Pvolume.exe
+C:\Users\Jarvis\Desktop\LP2\Atividade 1\Pvolume\obj\Debug\Pvolume.pdb
