@@ -1,0 +1,10 @@
+C:\Users\Jarvis\Desktop\LP2\Atividade7\Atividade7\bin\Debug\Atividade7.exe.config
+C:\Users\Jarvis\Desktop\LP2\Atividade7\Atividade7\bin\Debug\Atividade7.exe
+C:\Users\Jarvis\Desktop\LP2\Atividade7\Atividade7\bin\Debug\Atividade7.pdb
+C:\Users\Jarvis\Desktop\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.csprojResolveAssemblyReference.cache
+C:\Users\Jarvis\Desktop\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.Form1.resources
+C:\Users\Jarvis\Desktop\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.Properties.Resources.resources
+C:\Users\Jarvis\Desktop\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.csproj.GenerateResource.Cache
+C:\Users\Jarvis\Desktop\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.exe
+C:\Users\Jarvis\Desktop\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.pdb
+C:\Users\Jarvis\Desktop\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.frmExercicio7.resources
